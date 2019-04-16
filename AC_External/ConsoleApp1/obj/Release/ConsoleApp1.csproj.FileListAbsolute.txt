@@ -1,0 +1,14 @@
+C:\Users\Anwender\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Anwender\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Anwender\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Anwender\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Anwender\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Anwender\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+D:\Programmieren\AC_External\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+D:\Programmieren\AC_External\ConsoleApp1\bin\Release\ConsoleApp1.exe
+D:\Programmieren\AC_External\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+D:\Programmieren\AC_External\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+D:\Programmieren\AC_External\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Programmieren\AC_External\ConsoleApp1\obj\Release\ConsoleApp1.exe
+D:\Programmieren\AC_External\ConsoleApp1\obj\Release\ConsoleApp1.pdb
